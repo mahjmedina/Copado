@@ -597,7 +597,6 @@
         <type>Currency</type>
     </fields>
     <fields>
-
         <fullName>Property_Main_Image__c</fullName>
         <externalId>false</externalId>
         <label>Property Main Image</label>
